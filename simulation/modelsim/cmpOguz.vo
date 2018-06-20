@@ -16,7 +16,7 @@
 // PROGRAM "Quartus II 64-Bit"
 // VERSION "Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition"
 
-// DATE "05/12/2018 18:56:49"
+// DATE "06/20/2018 16:43:04"
 
 // 
 // Device: Altera EP3C16F484C6 Package FBGA484
@@ -405,11 +405,6 @@ wire \inst5|inst11|LPM_COUNTER_component|auto_generated|counter_comb_bita3~combo
 wire \inst5|inst11|LPM_COUNTER_component|auto_generated|counter_comb_bita0~combout ;
 wire \inst5|inst20~0_combout ;
 wire \inst5|inst20~1_combout ;
-wire [3:0] \inst5|inst6|LPM_COUNTER_component|auto_generated|counter_reg_bit ;
-wire [10:0] \inst5|inst15|altsyncram_component|auto_generated|q_a ;
-wire [3:0] \inst5|inst14|altsyncram_component|auto_generated|q_a ;
-wire [2:0] \inst5|inst8|LPM_COUNTER_component|auto_generated|counter_reg_bit ;
-wire [10:0] \inst5|inst5|LPM_COUNTER_component|auto_generated|counter_reg_bit ;
 wire [3:0] \inst|inst4|LPM_DECODE_component|auto_generated|w_anode4w ;
 wire [3:0] \inst5|inst2|LPM_DECODE_component|auto_generated|w_anode41w ;
 wire [3:0] \inst5|inst9|LPM_COUNTER_component|auto_generated|counter_reg_bit ;
@@ -425,6 +420,11 @@ wire [3:0] \inst|inst1|LPM_DECODE_component|auto_generated|w_anode31w ;
 wire [3:0] \inst|inst1|LPM_DECODE_component|auto_generated|w_anode21w ;
 wire [3:0] \inst|inst|LPM_COUNTER_component|auto_generated|counter_reg_bit ;
 wire [3:0] \inst4|inst1 ;
+wire [3:0] \inst5|inst6|LPM_COUNTER_component|auto_generated|counter_reg_bit ;
+wire [10:0] \inst5|inst15|altsyncram_component|auto_generated|q_a ;
+wire [3:0] \inst5|inst14|altsyncram_component|auto_generated|q_a ;
+wire [2:0] \inst5|inst8|LPM_COUNTER_component|auto_generated|counter_reg_bit ;
+wire [10:0] \inst5|inst5|LPM_COUNTER_component|auto_generated|counter_reg_bit ;
 
 wire [17:0] \inst5|inst15|altsyncram_component|auto_generated|ram_block1a0_PORTADATAOUT_bus ;
 wire [17:0] \inst5|inst14|altsyncram_component|auto_generated|ram_block1a0_PORTADATAOUT_bus ;

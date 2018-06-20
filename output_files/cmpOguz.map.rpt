@@ -1,5 +1,5 @@
 Analysis & Synthesis report for cmpOguz
-Sat May 12 18:55:23 2018
+Wed Jun 20 16:42:41 2018
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -71,7 +71,7 @@ applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                         ;
 +------------------------------------+-------------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Sat May 12 18:55:23 2018           ;
+; Analysis & Synthesis Status        ; Successful - Wed Jun 20 16:42:41 2018           ;
 ; Quartus II 64-Bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
 ; Revision Name                      ; cmpOguz                                         ;
 ; Top-level Entity Name              ; cmpOguz                                         ;
@@ -186,99 +186,99 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +----------------------------+--------+
 
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                                                                              ;
-+----------------------------------+-----------------+------------------------------------------+---------------------------------------------------------------------------+---------+
-; File Name with User-Entered Path ; Used in Netlist ; File Type                                ; File Name with Absolute Path                                              ; Library ;
-+----------------------------------+-----------------+------------------------------------------+---------------------------------------------------------------------------+---------+
-; seCo.tdf                         ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/seCo.tdf                                               ;         ;
-; scClear.bdf                      ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/scClear.bdf                                            ;         ;
-; pcLoad.bdf                       ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/pcLoad.bdf                                             ;         ;
-; pcINC.bdf                        ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/pcINC.bdf                                              ;         ;
-; myTwoMux.tdf                     ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myTwoMux.tdf                                           ;         ;
-; myShifter.tdf                    ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myShifter.tdf                                          ;         ;
-; myRom.tdf                        ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myRom.tdf                                              ;         ;
-; myRam.tdf                        ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myRam.tdf                                              ;         ;
-; myPC.tdf                         ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myPC.tdf                                               ;         ;
-; myOut.tdf                        ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myOut.tdf                                              ;         ;
-; myMux.tdf                        ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myMux.tdf                                              ;         ;
-; myIR.tdf                         ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myIR.tdf                                               ;         ;
-; myDR.tdf                         ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myDR.tdf                                               ;         ;
-; myDies.tdf                       ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myDies.tdf                                             ;         ;
-; myDecoder.tdf                    ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myDecoder.tdf                                          ;         ;
-; myBies.tdf                       ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myBies.tdf                                             ;         ;
-; myAR.tdf                         ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myAR.tdf                                               ;         ;
-; myAmux.vhd                       ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myAmux.vhd                                             ;         ;
-; myAluMux.tdf                     ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myAluMux.tdf                                           ;         ;
-; myAC.tdf                         ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/myAC.tdf                                               ;         ;
-; loadEncode.bdf                   ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/loadEncode.bdf                                         ;         ;
-; ioLoad.bdf                       ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/ioLoad.bdf                                             ;         ;
-; incEncode.bdf                    ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/incEncode.bdf                                          ;         ;
-; fourDecoder.tdf                  ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/fourDecoder.tdf                                        ;         ;
-; eCLR.bdf                         ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/eCLR.bdf                                               ;         ;
-; drLoad.bdf                       ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/drLoad.bdf                                             ;         ;
-; drINC.bdf                        ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/drINC.bdf                                              ;         ;
-; busSel.bdf                       ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/busSel.bdf                                             ;         ;
-; arLoad.bdf                       ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/arLoad.bdf                                             ;         ;
-; arINC.bdf                        ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/arINC.bdf                                              ;         ;
-; ALULogic.bdf                     ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/ALULogic.bdf                                           ;         ;
-; ALUArith.bdf                     ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/ALUArith.bdf                                           ;         ;
-; adder.tdf                        ; yes             ; User Wizard-Generated File               ; D:/myComputerFinal/adder.tdf                                              ;         ;
-; acLoad.bdf                       ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/acLoad.bdf                                             ;         ;
-; acINC.bdf                        ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/acINC.bdf                                              ;         ;
-; acCLR.bdf                        ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/acCLR.bdf                                              ;         ;
-; cmpOguz.bdf                      ; yes             ; User Block Diagram/Schematic File        ; D:/myComputerFinal/cmpOguz.bdf                                            ;         ;
-; lpm_counter.inc                  ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_counter.inc         ;         ;
-; lpm_mux.inc                      ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_mux.inc             ;         ;
-; lpm_clshift.inc                  ; yes             ; Auto-Found AHDL File                     ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_clshift.inc         ;         ;
-; altsyncram.inc                   ; yes             ; Auto-Found AHDL File                     ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altsyncram.inc          ;         ;
-; lpm_decode.inc                   ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_decode.inc          ;         ;
-; lpm_add_sub.inc                  ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_add_sub.inc         ;         ;
-; cpuoguz.bdf                      ; yes             ; Auto-Found Block Diagram/Schematic File  ; D:/myComputerFinal/cpuoguz.bdf                                            ;         ;
-; lpm_decode.tdf                   ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_decode.tdf          ;         ;
-; declut.inc                       ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/declut.inc              ;         ;
-; altshift.inc                     ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altshift.inc            ;         ;
-; lpm_compare.inc                  ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_compare.inc         ;         ;
-; lpm_constant.inc                 ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_constant.inc        ;         ;
-; aglobal130.inc                   ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/aglobal130.inc          ;         ;
-; db/decode_qbf.tdf                ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/decode_qbf.tdf                                      ;         ;
-; db/decode_lbf.tdf                ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/decode_lbf.tdf                                      ;         ;
-; lpm_counter.tdf                  ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_counter.tdf         ;         ;
-; cmpconst.inc                     ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/cmpconst.inc            ;         ;
-; dffeea.inc                       ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/dffeea.inc              ;         ;
-; alt_counter_stratix.inc          ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/alt_counter_stratix.inc ;         ;
-; db/cntr_cri.tdf                  ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/cntr_cri.tdf                                        ;         ;
-; alu.bdf                          ; yes             ; Auto-Found Block Diagram/Schematic File  ; D:/myComputerFinal/alu.bdf                                                ;         ;
-; lpm_add_sub.tdf                  ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_add_sub.tdf         ;         ;
-; addcore.inc                      ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/addcore.inc             ;         ;
-; look_add.inc                     ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/look_add.inc            ;         ;
-; bypassff.inc                     ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/bypassff.inc            ;         ;
-; alt_stratix_add_sub.inc          ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/alt_stratix_add_sub.inc ;         ;
-; db/add_sub_6hi.tdf               ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/add_sub_6hi.tdf                                     ;         ;
-; lpm_mux.tdf                      ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_mux.tdf             ;         ;
-; muxlut.inc                       ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/muxlut.inc              ;         ;
-; db/mux_c6e.tdf                   ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/mux_c6e.tdf                                         ;         ;
-; db/mux_jrc.tdf                   ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/mux_jrc.tdf                                         ;         ;
-; lpm_clshift.tdf                  ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/lpm_clshift.tdf         ;         ;
-; db/lpm_clshift_ufc.tdf           ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/lpm_clshift_ufc.tdf                                 ;         ;
-; 2015510098.bdf                   ; yes             ; Auto-Found Block Diagram/Schematic File  ; D:/myComputerFinal/2015510098.bdf                                         ;         ;
-; db/cntr_pqj.tdf                  ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/cntr_pqj.tdf                                        ;         ;
-; db/decode_5af.tdf                ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/decode_5af.tdf                                      ;         ;
-; db/mux_8qc.tdf                   ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/mux_8qc.tdf                                         ;         ;
-; db/mux_frc.tdf                   ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/mux_frc.tdf                                         ;         ;
-; altsyncram.tdf                   ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altsyncram.tdf          ;         ;
-; stratix_ram_block.inc            ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/stratix_ram_block.inc   ;         ;
-; a_rdenreg.inc                    ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/a_rdenreg.inc           ;         ;
-; altrom.inc                       ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altrom.inc              ;         ;
-; altram.inc                       ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altram.inc              ;         ;
-; altdpram.inc                     ; yes             ; Megafunction                             ; c:/altera/13.0sp1/quartus/libraries/megafunctions/altdpram.inc            ;         ;
-; db/altsyncram_ug91.tdf           ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/altsyncram_ug91.tdf                                 ;         ;
-; rom.mif                          ; yes             ; Auto-Found Memory Initialization File    ; D:/myComputerFinal/rom.mif                                                ;         ;
-; db/altsyncram_2mh1.tdf           ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/altsyncram_2mh1.tdf                                 ;         ;
-; ram.mif                          ; yes             ; Auto-Found Memory Initialization File    ; D:/myComputerFinal/ram.mif                                                ;         ;
-; db/cntr_oqj.tdf                  ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/cntr_oqj.tdf                                        ;         ;
-; db/cntr_7sj.tdf                  ; yes             ; Auto-Generated Megafunction              ; D:/myComputerFinal/db/cntr_7sj.tdf                                        ;         ;
-+----------------------------------+-----------------+------------------------------------------+---------------------------------------------------------------------------+---------+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                                      ;
++----------------------------------+-----------------+------------------------------------------+-----------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type                                ; File Name with Absolute Path                                                      ; Library ;
++----------------------------------+-----------------+------------------------------------------+-----------------------------------------------------------------------------------+---------+
+; seCo.tdf                         ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/seCo.tdf                                        ;         ;
+; scClear.bdf                      ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/scClear.bdf                                     ;         ;
+; pcLoad.bdf                       ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/pcLoad.bdf                                      ;         ;
+; pcINC.bdf                        ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/pcINC.bdf                                       ;         ;
+; myTwoMux.tdf                     ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myTwoMux.tdf                                    ;         ;
+; myShifter.tdf                    ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myShifter.tdf                                   ;         ;
+; myRom.tdf                        ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myRom.tdf                                       ;         ;
+; myRam.tdf                        ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myRam.tdf                                       ;         ;
+; myPC.tdf                         ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myPC.tdf                                        ;         ;
+; myOut.tdf                        ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myOut.tdf                                       ;         ;
+; myMux.tdf                        ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myMux.tdf                                       ;         ;
+; myIR.tdf                         ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myIR.tdf                                        ;         ;
+; myDR.tdf                         ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myDR.tdf                                        ;         ;
+; myDies.tdf                       ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myDies.tdf                                      ;         ;
+; myDecoder.tdf                    ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myDecoder.tdf                                   ;         ;
+; myBies.tdf                       ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myBies.tdf                                      ;         ;
+; myAR.tdf                         ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myAR.tdf                                        ;         ;
+; myAmux.vhd                       ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myAmux.vhd                                      ;         ;
+; myAluMux.tdf                     ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myAluMux.tdf                                    ;         ;
+; myAC.tdf                         ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/myAC.tdf                                        ;         ;
+; loadEncode.bdf                   ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/loadEncode.bdf                                  ;         ;
+; ioLoad.bdf                       ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/ioLoad.bdf                                      ;         ;
+; incEncode.bdf                    ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/incEncode.bdf                                   ;         ;
+; fourDecoder.tdf                  ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/fourDecoder.tdf                                 ;         ;
+; eCLR.bdf                         ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/eCLR.bdf                                        ;         ;
+; drLoad.bdf                       ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/drLoad.bdf                                      ;         ;
+; drINC.bdf                        ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/drINC.bdf                                       ;         ;
+; busSel.bdf                       ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/busSel.bdf                                      ;         ;
+; arLoad.bdf                       ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/arLoad.bdf                                      ;         ;
+; arINC.bdf                        ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/arINC.bdf                                       ;         ;
+; ALULogic.bdf                     ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/ALULogic.bdf                                    ;         ;
+; ALUArith.bdf                     ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/ALUArith.bdf                                    ;         ;
+; adder.tdf                        ; yes             ; User Wizard-Generated File               ; /run/media/oguz/D/myComputerFinal/adder.tdf                                       ;         ;
+; acLoad.bdf                       ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/acLoad.bdf                                      ;         ;
+; acINC.bdf                        ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/acINC.bdf                                       ;         ;
+; acCLR.bdf                        ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/acCLR.bdf                                       ;         ;
+; cmpOguz.bdf                      ; yes             ; User Block Diagram/Schematic File        ; /run/media/oguz/D/myComputerFinal/cmpOguz.bdf                                     ;         ;
+; lpm_counter.inc                  ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_counter.inc         ;         ;
+; lpm_mux.inc                      ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_mux.inc             ;         ;
+; lpm_clshift.inc                  ; yes             ; Auto-Found AHDL File                     ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_clshift.inc         ;         ;
+; altsyncram.inc                   ; yes             ; Auto-Found AHDL File                     ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/altsyncram.inc          ;         ;
+; lpm_decode.inc                   ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_decode.inc          ;         ;
+; lpm_add_sub.inc                  ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_add_sub.inc         ;         ;
+; cpuOguz.bdf                      ; yes             ; Auto-Found Block Diagram/Schematic File  ; /run/media/oguz/D/myComputerFinal/cpuOguz.bdf                                     ;         ;
+; lpm_decode.tdf                   ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_decode.tdf          ;         ;
+; declut.inc                       ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/declut.inc              ;         ;
+; altshift.inc                     ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/altshift.inc            ;         ;
+; lpm_compare.inc                  ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_compare.inc         ;         ;
+; lpm_constant.inc                 ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_constant.inc        ;         ;
+; aglobal130.inc                   ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/aglobal130.inc          ;         ;
+; db/decode_qbf.tdf                ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/decode_qbf.tdf                               ;         ;
+; db/decode_lbf.tdf                ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/decode_lbf.tdf                               ;         ;
+; lpm_counter.tdf                  ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_counter.tdf         ;         ;
+; cmpconst.inc                     ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/cmpconst.inc            ;         ;
+; dffeea.inc                       ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/dffeea.inc              ;         ;
+; alt_counter_stratix.inc          ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/alt_counter_stratix.inc ;         ;
+; db/cntr_cri.tdf                  ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/cntr_cri.tdf                                 ;         ;
+; alu.bdf                          ; yes             ; Auto-Found Block Diagram/Schematic File  ; /run/media/oguz/D/myComputerFinal/alu.bdf                                         ;         ;
+; lpm_add_sub.tdf                  ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_add_sub.tdf         ;         ;
+; addcore.inc                      ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/addcore.inc             ;         ;
+; look_add.inc                     ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/look_add.inc            ;         ;
+; bypassff.inc                     ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/bypassff.inc            ;         ;
+; alt_stratix_add_sub.inc          ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/alt_stratix_add_sub.inc ;         ;
+; db/add_sub_6hi.tdf               ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/add_sub_6hi.tdf                              ;         ;
+; lpm_mux.tdf                      ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_mux.tdf             ;         ;
+; muxlut.inc                       ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/muxlut.inc              ;         ;
+; db/mux_c6e.tdf                   ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/mux_c6e.tdf                                  ;         ;
+; db/mux_jrc.tdf                   ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/mux_jrc.tdf                                  ;         ;
+; lpm_clshift.tdf                  ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/lpm_clshift.tdf         ;         ;
+; db/lpm_clshift_ufc.tdf           ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/lpm_clshift_ufc.tdf                          ;         ;
+; 2015510098.bdf                   ; yes             ; Auto-Found Block Diagram/Schematic File  ; /run/media/oguz/D/myComputerFinal/2015510098.bdf                                  ;         ;
+; db/cntr_pqj.tdf                  ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/cntr_pqj.tdf                                 ;         ;
+; db/decode_5af.tdf                ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/decode_5af.tdf                               ;         ;
+; db/mux_8qc.tdf                   ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/mux_8qc.tdf                                  ;         ;
+; db/mux_frc.tdf                   ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/mux_frc.tdf                                  ;         ;
+; altsyncram.tdf                   ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/altsyncram.tdf          ;         ;
+; stratix_ram_block.inc            ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/stratix_ram_block.inc   ;         ;
+; a_rdenreg.inc                    ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/a_rdenreg.inc           ;         ;
+; altrom.inc                       ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/altrom.inc              ;         ;
+; altram.inc                       ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/altram.inc              ;         ;
+; altdpram.inc                     ; yes             ; Megafunction                             ; /home/oguz/altera/13.0sp1/quartus/libraries/megafunctions/altdpram.inc            ;         ;
+; db/altsyncram_ug91.tdf           ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/altsyncram_ug91.tdf                          ;         ;
+; rom.mif                          ; yes             ; Auto-Found Memory Initialization File    ; /run/media/oguz/D/myComputerFinal/rom.mif                                         ;         ;
+; db/altsyncram_2mh1.tdf           ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/altsyncram_2mh1.tdf                          ;         ;
+; ram.mif                          ; yes             ; Auto-Found Memory Initialization File    ; /run/media/oguz/D/myComputerFinal/ram.mif                                         ;         ;
+; db/cntr_oqj.tdf                  ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/cntr_oqj.tdf                                 ;         ;
+; db/cntr_7sj.tdf                  ; yes             ; Auto-Generated Megafunction              ; /run/media/oguz/D/myComputerFinal/db/cntr_7sj.tdf                                 ;         ;
++----------------------------------+-----------------+------------------------------------------+-----------------------------------------------------------------------------------+---------+
 
 
 +---------------------------------------------------------+
@@ -399,33 +399,33 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 +---------------------------------------------------------------------------------------------------------+------+-------------+--------------+--------------+--------------+--------------+------+---------+
 
 
-+------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis IP Cores Summary                                                                                                          ;
-+--------+--------------+---------+--------------+--------------+-------------------------------------------+------------------------------------+
-; Vendor ; IP Core Name ; Version ; Release Date ; License Type ; Entity Instance                           ; IP Include File                    ;
-+--------+--------------+---------+--------------+--------------+-------------------------------------------+------------------------------------+
-; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|cpuOguz:inst|seCo:inst           ; D:/myComputerFinal/seCo.tdf        ;
-; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|cpuOguz:inst|fourDecoder:inst1   ; D:/myComputerFinal/fourDecoder.tdf ;
-; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|cpuOguz:inst|myDies:inst3        ; D:/myComputerFinal/myDies.tdf      ;
-; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|cpuOguz:inst|myBies:inst4        ; D:/myComputerFinal/myBies.tdf      ;
-; Altera ; LPM_MUX      ; N/A     ; N/A          ; N/A          ; |cmpOguz|alu:inst4|myAluMux:inst          ; D:/myComputerFinal/myAluMux.tdf    ;
-; Altera ; LPM_ADD_SUB  ; N/A     ; N/A          ; N/A          ; |cmpOguz|alu:inst4|adder:inst5            ; D:/myComputerFinal/adder.tdf       ;
-; Altera ; LPM_MUX      ; N/A     ; N/A          ; N/A          ; |cmpOguz|alu:inst4|myAmux:inst9           ; D:/myComputerFinal/myAmux.vhd      ;
-; Altera ; LPM_CLSHIFT  ; N/A     ; N/A          ; N/A          ; |cmpOguz|alu:inst4|myShifter:inst13       ; D:/myComputerFinal/myShifter.tdf   ;
-; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myDecoder:inst  ; D:/myComputerFinal/myDecoder.tdf   ;
-; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myDecoder:inst1 ; D:/myComputerFinal/myDecoder.tdf   ;
-; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myDecoder:inst2 ; D:/myComputerFinal/myDecoder.tdf   ;
-; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myIR:inst5      ; D:/myComputerFinal/myIR.tdf        ;
-; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myAC:inst6      ; D:/myComputerFinal/myAC.tdf        ;
-; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myDR:inst7      ; D:/myComputerFinal/myDR.tdf        ;
-; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myAR:inst8      ; D:/myComputerFinal/myAR.tdf        ;
-; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myPC:inst9      ; D:/myComputerFinal/myPC.tdf        ;
-; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myOut:inst11    ; D:/myComputerFinal/myOut.tdf       ;
-; Altera ; LPM_MUX      ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myMux:inst12    ; D:/myComputerFinal/myMux.tdf       ;
-; Altera ; LPM_MUX      ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myTwoMux:inst13 ; D:/myComputerFinal/myTwoMux.tdf    ;
-; Altera ; RAM: 1-PORT  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myRam:inst14    ; D:/myComputerFinal/myRam.tdf       ;
-; Altera ; ROM: 1-PORT  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myRom:inst15    ; D:/myComputerFinal/myRom.tdf       ;
-+--------+--------------+---------+--------------+--------------+-------------------------------------------+------------------------------------+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis IP Cores Summary                                                                                                                         ;
++--------+--------------+---------+--------------+--------------+-------------------------------------------+---------------------------------------------------+
+; Vendor ; IP Core Name ; Version ; Release Date ; License Type ; Entity Instance                           ; IP Include File                                   ;
++--------+--------------+---------+--------------+--------------+-------------------------------------------+---------------------------------------------------+
+; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|cpuOguz:inst|seCo:inst           ; /run/media/oguz/D/myComputerFinal/seCo.tdf        ;
+; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|cpuOguz:inst|fourDecoder:inst1   ; /run/media/oguz/D/myComputerFinal/fourDecoder.tdf ;
+; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|cpuOguz:inst|myDies:inst3        ; /run/media/oguz/D/myComputerFinal/myDies.tdf      ;
+; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|cpuOguz:inst|myBies:inst4        ; /run/media/oguz/D/myComputerFinal/myBies.tdf      ;
+; Altera ; LPM_MUX      ; N/A     ; N/A          ; N/A          ; |cmpOguz|alu:inst4|myAluMux:inst          ; /run/media/oguz/D/myComputerFinal/myAluMux.tdf    ;
+; Altera ; LPM_ADD_SUB  ; N/A     ; N/A          ; N/A          ; |cmpOguz|alu:inst4|adder:inst5            ; /run/media/oguz/D/myComputerFinal/adder.tdf       ;
+; Altera ; LPM_MUX      ; N/A     ; N/A          ; N/A          ; |cmpOguz|alu:inst4|myAmux:inst9           ; /run/media/oguz/D/myComputerFinal/myAmux.vhd      ;
+; Altera ; LPM_CLSHIFT  ; N/A     ; N/A          ; N/A          ; |cmpOguz|alu:inst4|myShifter:inst13       ; /run/media/oguz/D/myComputerFinal/myShifter.tdf   ;
+; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myDecoder:inst  ; /run/media/oguz/D/myComputerFinal/myDecoder.tdf   ;
+; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myDecoder:inst1 ; /run/media/oguz/D/myComputerFinal/myDecoder.tdf   ;
+; Altera ; LPM_DECODE   ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myDecoder:inst2 ; /run/media/oguz/D/myComputerFinal/myDecoder.tdf   ;
+; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myIR:inst5      ; /run/media/oguz/D/myComputerFinal/myIR.tdf        ;
+; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myAC:inst6      ; /run/media/oguz/D/myComputerFinal/myAC.tdf        ;
+; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myDR:inst7      ; /run/media/oguz/D/myComputerFinal/myDR.tdf        ;
+; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myAR:inst8      ; /run/media/oguz/D/myComputerFinal/myAR.tdf        ;
+; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myPC:inst9      ; /run/media/oguz/D/myComputerFinal/myPC.tdf        ;
+; Altera ; LPM_COUNTER  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myOut:inst11    ; /run/media/oguz/D/myComputerFinal/myOut.tdf       ;
+; Altera ; LPM_MUX      ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myMux:inst12    ; /run/media/oguz/D/myComputerFinal/myMux.tdf       ;
+; Altera ; LPM_MUX      ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myTwoMux:inst13 ; /run/media/oguz/D/myComputerFinal/myTwoMux.tdf    ;
+; Altera ; RAM: 1-PORT  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myRam:inst14    ; /run/media/oguz/D/myComputerFinal/myRam.tdf       ;
+; Altera ; ROM: 1-PORT  ; N/A     ; N/A          ; N/A          ; |cmpOguz|2015510098:inst5|myRom:inst15    ; /run/media/oguz/D/myComputerFinal/myRom.tdf       ;
++--------+--------------+---------+--------------+--------------+-------------------------------------------+---------------------------------------------------+
 
 
 +-----------------------------------------------------------------------------------------------------+
@@ -1098,93 +1098,93 @@ Note: In order to hide this table in the UI and the text report file, please set
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Analysis & Synthesis
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Sat May 12 18:55:19 2018
+    Info: Processing started: Wed Jun 20 16:42:32 2018
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off cmpOguz -c cmpOguz
 Warning (20028): Parallel compilation is not licensed and has been disabled
-Info (12021): Found 1 design units, including 1 entities, in source file seco.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file seCo.tdf
     Info (12023): Found entity 1: seCo
-Info (12021): Found 1 design units, including 1 entities, in source file scclear.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file scClear.bdf
     Info (12023): Found entity 1: scClear
 Info (12021): Found 1 design units, including 1 entities, in source file rw.bdf
     Info (12023): Found entity 1: rw
-Info (12021): Found 1 design units, including 1 entities, in source file pcload.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file pcLoad.bdf
     Info (12023): Found entity 1: pcLoad
-Info (12021): Found 1 design units, including 1 entities, in source file pcinc.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file pcINC.bdf
     Info (12023): Found entity 1: pcINC
-Info (12021): Found 1 design units, including 1 entities, in source file mytwomux.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myTwoMux.tdf
     Info (12023): Found entity 1: myTwoMux
 Warning (287004): Group name "distance" is missing brackets ([ ])
-Info (12021): Found 1 design units, including 1 entities, in source file myshifter.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myShifter.tdf
     Info (12023): Found entity 1: myShifter
-Info (12021): Found 1 design units, including 1 entities, in source file myrom.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myRom.tdf
     Info (12023): Found entity 1: myRom
-Info (12021): Found 1 design units, including 1 entities, in source file myram.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myRam.tdf
     Info (12023): Found entity 1: myRam
-Info (12021): Found 1 design units, including 1 entities, in source file mypc.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myPC.tdf
     Info (12023): Found entity 1: myPC
-Info (12021): Found 1 design units, including 1 entities, in source file myout.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myOut.tdf
     Info (12023): Found entity 1: myOut
-Info (12021): Found 1 design units, including 1 entities, in source file mymux.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myMux.tdf
     Info (12023): Found entity 1: myMux
-Info (12021): Found 1 design units, including 1 entities, in source file myir.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myIR.tdf
     Info (12023): Found entity 1: myIR
-Info (12021): Found 1 design units, including 1 entities, in source file myinp.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myINP.tdf
     Info (12023): Found entity 1: myINP
-Info (12021): Found 1 design units, including 1 entities, in source file mydr.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myDR.tdf
     Info (12023): Found entity 1: myDR
-Info (12021): Found 1 design units, including 1 entities, in source file mydies.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myDies.tdf
     Info (12023): Found entity 1: myDies
-Info (12021): Found 1 design units, including 1 entities, in source file mydecoder.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myDecoder.tdf
     Info (12023): Found entity 1: myDecoder
-Info (12021): Found 1 design units, including 1 entities, in source file mycommand.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myCommand.tdf
     Info (12023): Found entity 1: myCommand
-Info (12021): Found 1 design units, including 1 entities, in source file mybies.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myBies.tdf
     Info (12023): Found entity 1: myBies
-Info (12021): Found 1 design units, including 1 entities, in source file myar.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myAR.tdf
     Info (12023): Found entity 1: myAR
-Info (12021): Found 2 design units, including 1 entities, in source file myamux.vhd
+Info (12021): Found 2 design units, including 1 entities, in source file myAmux.vhd
     Info (12022): Found design unit 1: myamux-SYN
     Info (12023): Found entity 1: myAmux
-Info (12021): Found 1 design units, including 1 entities, in source file myalumux.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myAluMux.tdf
     Info (12023): Found entity 1: myAluMux
-Info (12021): Found 1 design units, including 1 entities, in source file myac.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file myAC.tdf
     Info (12023): Found entity 1: myAC
-Info (12021): Found 1 design units, including 1 entities, in source file loadencode.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file loadEncode.bdf
     Info (12023): Found entity 1: loadEncode
-Info (12021): Found 1 design units, including 1 entities, in source file ioload.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file ioLoad.bdf
     Info (12023): Found entity 1: ioLoad
-Info (12021): Found 1 design units, including 1 entities, in source file incencode.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file incEncode.bdf
     Info (12023): Found entity 1: incEncode
-Info (12021): Found 1 design units, including 1 entities, in source file fourdecoder.tdf
+Info (12021): Found 1 design units, including 1 entities, in source file fourDecoder.tdf
     Info (12023): Found entity 1: fourDecoder
-Info (12021): Found 1 design units, including 1 entities, in source file eclr.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file eCLR.bdf
     Info (12023): Found entity 1: eCLR
-Info (12021): Found 1 design units, including 1 entities, in source file drload.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file drLoad.bdf
     Info (12023): Found entity 1: drLoad
-Info (12021): Found 1 design units, including 1 entities, in source file drinc.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file drINC.bdf
     Info (12023): Found entity 1: drINC
-Info (12021): Found 1 design units, including 1 entities, in source file bussel.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file busSel.bdf
     Info (12023): Found entity 1: busSel
-Info (12021): Found 1 design units, including 1 entities, in source file arload.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file arLoad.bdf
     Info (12023): Found entity 1: arLoad
-Info (12021): Found 1 design units, including 1 entities, in source file arinc.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file arINC.bdf
     Info (12023): Found entity 1: arINC
-Info (12021): Found 1 design units, including 1 entities, in source file alulogic.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file ALULogic.bdf
     Info (12023): Found entity 1: ALULogic
-Info (12021): Found 1 design units, including 1 entities, in source file aluarith.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file ALUArith.bdf
     Info (12023): Found entity 1: ALUArith
 Info (12021): Found 1 design units, including 1 entities, in source file adder.tdf
     Info (12023): Found entity 1: adder
-Info (12021): Found 1 design units, including 1 entities, in source file acload.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file acLoad.bdf
     Info (12023): Found entity 1: acLoad
-Info (12021): Found 1 design units, including 1 entities, in source file acinc.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file acINC.bdf
     Info (12023): Found entity 1: acINC
-Info (12021): Found 1 design units, including 1 entities, in source file acclr.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file acCLR.bdf
     Info (12023): Found entity 1: acCLR
-Info (12021): Found 1 design units, including 1 entities, in source file cmpoguz.bdf
+Info (12021): Found 1 design units, including 1 entities, in source file cmpOguz.bdf
     Info (12023): Found entity 1: cmpOguz
 Info (12127): Elaborating entity "cmpOguz" for the top level hierarchy
-Warning (12125): Using design file cpuoguz.bdf, which is not specified as a design file for the current project, but contains definitions for 1 design units and 1 entities in project
+Warning (12125): Using design file cpuOguz.bdf, which is not specified as a design file for the current project, but contains definitions for 1 design units and 1 entities in project
     Info (12023): Found entity 1: cpuOguz
 Info (12128): Elaborating entity "cpuOguz" for hierarchy "cpuOguz:inst"
 Info (12128): Elaborating entity "eCLR" for hierarchy "cpuOguz:inst|eCLR:inst23"
@@ -1431,9 +1431,9 @@ Info (21057): Implemented 275 device resources after synthesis - the final resou
     Info (21061): Implemented 202 logic cells
     Info (21064): Implemented 15 RAM segments
 Info: Quartus II 64-Bit Analysis & Synthesis was successful. 0 errors, 19 warnings
-    Info: Peak virtual memory: 4674 megabytes
-    Info: Processing ended: Sat May 12 18:55:23 2018
-    Info: Elapsed time: 00:00:04
-    Info: Total CPU time (on all processors): 00:00:04
+    Info: Peak virtual memory: 681 megabytes
+    Info: Processing ended: Wed Jun 20 16:42:41 2018
+    Info: Elapsed time: 00:00:09
+    Info: Total CPU time (on all processors): 00:00:05
 
 
